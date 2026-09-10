@@ -1,0 +1,843 @@
+{
+  "assets": [
+    {
+      "contentType": "image/svg+xml",
+      "id": "ff487bdb19dd90c7",
+      "kind": "image",
+      "name": "hero-background-illustration.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/ff487bdb19dd90c7.svg",
+      "url": "https://mindmarket.com/timeline/hero-background-illustration.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4d72b57f19c121bb",
+      "kind": "image",
+      "name": "clock.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4d72b57f19c121bb.svg",
+      "url": "https://mindmarket.com/timeline/clock.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "68f076b6a3858b9e",
+      "kind": "image",
+      "name": "clock-shape.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/68f076b6a3858b9e.svg",
+      "url": "https://mindmarket.com/timeline/clock-shape.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8e28b2898f3f9df5",
+      "kind": "image",
+      "name": "clock-shape-mobile.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8e28b2898f3f9df5.svg",
+      "url": "https://mindmarket.com/timeline/clock-shape-mobile.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "685c420616c43ecc",
+      "kind": "image",
+      "name": "folder.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/685c420616c43ecc.svg",
+      "url": "https://mindmarket.com/timeline/folder.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "805b1b17a981ab4b",
+      "kind": "image",
+      "name": "folder-shape.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/805b1b17a981ab4b.svg",
+      "url": "https://mindmarket.com/timeline/folder-shape.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4d1002772f875f8f",
+      "kind": "image",
+      "name": "plane-2.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4d1002772f875f8f.svg",
+      "url": "https://mindmarket.com/timeline/plane-2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d18d005b3b7638b3",
+      "kind": "image",
+      "name": "plane-1.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/d18d005b3b7638b3.svg",
+      "url": "https://mindmarket.com/timeline/plane-1.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "76efb354fbe70981",
+      "kind": "image",
+      "name": "sheet.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/76efb354fbe70981.svg",
+      "url": "https://mindmarket.com/timeline/sheet.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "04810714eb02b32a",
+      "kind": "image",
+      "name": "plane-trace.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/04810714eb02b32a.svg",
+      "url": "https://mindmarket.com/timeline/plane-trace.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1f835014e336c3d8",
+      "kind": "image",
+      "name": "composer-shape.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/1f835014e336c3d8.svg",
+      "url": "https://mindmarket.com/timeline/composer-shape.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fdb516effcf132ff",
+      "kind": "image",
+      "name": "composer-shape-2.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/fdb516effcf132ff.svg",
+      "url": "https://mindmarket.com/timeline/composer-shape-2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f89593e167e930f2",
+      "kind": "image",
+      "name": "music-note-1.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/f89593e167e930f2.svg",
+      "url": "https://mindmarket.com/timeline/music-note-1.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f63a8b000417f4bd",
+      "kind": "image",
+      "name": "music-note-2.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/f63a8b000417f4bd.svg",
+      "url": "https://mindmarket.com/timeline/music-note-2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8aec88ca54fed7ba",
+      "kind": "image",
+      "name": "soccer-trace.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8aec88ca54fed7ba.svg",
+      "url": "https://mindmarket.com/timeline/soccer-trace.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "903f40fce00dcbfc",
+      "kind": "image",
+      "name": "soccer-shape-2.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/903f40fce00dcbfc.svg",
+      "url": "https://mindmarket.com/timeline/soccer-shape-2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8e1e9b3c769d107a",
+      "kind": "image",
+      "name": "joystick-shape.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8e1e9b3c769d107a.svg",
+      "url": "https://mindmarket.com/timeline/joystick-shape.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f948584e0676a030",
+      "kind": "image",
+      "name": "soccer-shape-1.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/f948584e0676a030.svg",
+      "url": "https://mindmarket.com/timeline/soccer-shape-1.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7227a37a6b105ce2",
+      "kind": "image",
+      "name": "gamer-shape.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/7227a37a6b105ce2.svg",
+      "url": "https://mindmarket.com/timeline/gamer-shape.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9be82e918899b38a",
+      "kind": "image",
+      "name": "soccer-shape-4.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9be82e918899b38a.svg",
+      "url": "https://mindmarket.com/timeline/soccer-shape-4.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f745c3e026ace012",
+      "kind": "image",
+      "name": "soccer-circle.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/f745c3e026ace012.svg",
+      "url": "https://mindmarket.com/timeline/soccer-circle.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cbf386d810866680",
+      "kind": "image",
+      "name": "trumper-shape.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/cbf386d810866680.svg",
+      "url": "https://mindmarket.com/timeline/trumper-shape.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "56493376ae0c4c7e",
+      "kind": "image",
+      "name": "joystick.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/56493376ae0c4c7e.svg",
+      "url": "https://mindmarket.com/timeline/joystick.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1170ba81424d7ffc",
+      "kind": "image",
+      "name": "music-note-3.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/1170ba81424d7ffc.svg",
+      "url": "https://mindmarket.com/timeline/music-note-3.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "92a602f75fd7b9fb",
+      "kind": "image",
+      "name": "soccer-shape-3.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/92a602f75fd7b9fb.svg",
+      "url": "https://mindmarket.com/timeline/soccer-shape-3.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7026a3f89c524464",
+      "kind": "image",
+      "name": "timeline_end_cloud_4.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/7026a3f89c524464.svg",
+      "url": "https://mindmarket.com/timeline/timeline_end_cloud_4.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5f122e766a9260c3",
+      "kind": "image",
+      "name": "timeline_end_cloud_5.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/5f122e766a9260c3.svg",
+      "url": "https://mindmarket.com/timeline/timeline_end_cloud_5.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "622e9800219b6525",
+      "kind": "image",
+      "name": "timeline_end_cloud_3.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/622e9800219b6525.svg",
+      "url": "https://mindmarket.com/timeline/timeline_end_cloud_3.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3efb9369014f2140",
+      "kind": "image",
+      "name": "timeline-end-green-back.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/3efb9369014f2140.svg",
+      "url": "https://mindmarket.com/timeline/timeline-end-green-back.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d6e3db3720e55fc8",
+      "kind": "image",
+      "name": "timeline-end-green-middle.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/d6e3db3720e55fc8.svg",
+      "url": "https://mindmarket.com/timeline/timeline-end-green-middle.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "17f6a23dab3bee1a",
+      "kind": "image",
+      "name": "timeline_end_cloud_1.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/17f6a23dab3bee1a.svg",
+      "url": "https://mindmarket.com/timeline/timeline_end_cloud_1.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "34a961e98f331440",
+      "kind": "image",
+      "name": "soccer-circle-2.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/34a961e98f331440.svg",
+      "url": "https://mindmarket.com/timeline/soccer-circle-2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2ac8f01c9ca985d7",
+      "kind": "image",
+      "name": "timeline-end-green-front.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/2ac8f01c9ca985d7.svg",
+      "url": "https://mindmarket.com/timeline/timeline-end-green-front.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c2eff1a40fc15327",
+      "kind": "image",
+      "name": "timeline_end_cloud_2.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/c2eff1a40fc15327.svg",
+      "url": "https://mindmarket.com/timeline/timeline_end_cloud_2.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9ab0ad61137b92d6",
+      "kind": "image",
+      "name": "1755458576-discord-icon-1.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9ab0ad61137b92d6.svg",
+      "url": "https://www.datocms-assets.com/166003/1755458576-discord-icon-1.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1638ca34268fced6",
+      "kind": "image",
+      "name": "1758633791-logo-citizens-bank.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/1638ca34268fced6.svg",
+      "url": "https://www.datocms-assets.com/166003/1758633791-logo-citizens-bank.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "69b7adeadbf46c62",
+      "kind": "image",
+      "name": "1758543222-logo-amazon.svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/69b7adeadbf46c62.svg",
+      "url": "https://www.datocms-assets.com/166003/1758543222-logo-amazon.svg"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "4541c6193373afee",
+      "kind": "font",
+      "name": "inter-latin-500-normal.woff2",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4541c6193373afee.woff2",
+      "url": "https://mindmarket.com/fonts/inter-latin-500-normal.woff2"
+    },
+    {
+      "contentType": "font/woff2",
+      "id": "e91e33f684739a1b",
+      "kind": "font",
+      "name": "inter-latin-400-normal.woff2",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/e91e33f684739a1b.woff2",
+      "url": "https://mindmarket.com/fonts/inter-latin-400-normal.woff2"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "8df484cc005a430f",
+      "kind": "image",
+      "name": "1762640405-cb583115c9ccba35b1f0202185198c5911e960fa.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8df484cc005a430f.png",
+      "url": "https://www.datocms-assets.com/166003/1762640405-cb583115c9ccba35b1f0202185198c5911e960fa.png?crop=focalpoint&dpr=1.5&fit=crop&fp-x=0.61&fp-y=0.45&h=650&w=500"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "95096c27114bcd01",
+      "kind": "image",
+      "name": "1763390946-methodology3.webp",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/95096c27114bcd01.webp",
+      "url": "https://www.datocms-assets.com/166003/1763390946-methodology3.webp?dpr=1.5&fit=crop&h=650&w=500"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "81531d42fc6191cb",
+      "kind": "image",
+      "name": "1763456118-about-us-3.webp",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/81531d42fc6191cb.webp",
+      "url": "https://www.datocms-assets.com/166003/1763456118-about-us-3.webp?dpr=1.5&fit=crop&h=650&w=500"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "770f4f93a803cca9",
+      "kind": "image",
+      "name": "1763458058-insight.webp",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/770f4f93a803cca9.webp",
+      "url": "https://www.datocms-assets.com/166003/1763458058-insight.webp?dpr=1.5&fit=crop&h=650&w=500"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "8fd1a9c6cd735b11",
+      "kind": "image",
+      "name": "1763457633-contact4.webp",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8fd1a9c6cd735b11.webp",
+      "url": "https://www.datocms-assets.com/166003/1763457633-contact4.webp?dpr=1.5&fit=crop&h=650&w=500"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "4cda871e30ae3f68",
+      "kind": "image",
+      "name": "1758543241-logo-paypal.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4cda871e30ae3f68.png",
+      "url": "https://www.datocms-assets.com/166003/1758543241-logo-paypal.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "9a3dcfe443f8e191",
+      "kind": "image",
+      "name": "1758633714-logo-moet-chandon.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9a3dcfe443f8e191.png",
+      "url": "https://www.datocms-assets.com/166003/1758633714-logo-moet-chandon.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "d9edaf89fe8a8760",
+      "kind": "image",
+      "name": "1758633618-logo-walmart.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/d9edaf89fe8a8760.png",
+      "url": "https://www.datocms-assets.com/166003/1758633618-logo-walmart.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "db501ec9c6cb4e67",
+      "kind": "image",
+      "name": "1758633823-logo-airbnb.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/db501ec9c6cb4e67.png",
+      "url": "https://www.datocms-assets.com/166003/1758633823-logo-airbnb.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "90a22357b4f5b20e",
+      "kind": "image",
+      "name": "1758633775-logo-coinbase.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/90a22357b4f5b20e.png",
+      "url": "https://www.datocms-assets.com/166003/1758633775-logo-coinbase.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "a193b12d7a363004",
+      "kind": "image",
+      "name": "1758542873-logo-google.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/a193b12d7a363004.png",
+      "url": "https://www.datocms-assets.com/166003/1758542873-logo-google.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "6009c360dd527c47",
+      "kind": "image",
+      "name": "1758633638-logo-uber.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/6009c360dd527c47.png",
+      "url": "https://www.datocms-assets.com/166003/1758633638-logo-uber.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "c4072f25c1ea8ade",
+      "kind": "image",
+      "name": "1758633737-logo-meta.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/c4072f25c1ea8ade.png",
+      "url": "https://www.datocms-assets.com/166003/1758633737-logo-meta.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "e8a3996f007d020c",
+      "kind": "image",
+      "name": "1758633552-logo-youtube.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/e8a3996f007d020c.png",
+      "url": "https://www.datocms-assets.com/166003/1758633552-logo-youtube.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "9e5be380b3822379",
+      "kind": "image",
+      "name": "1758633590-logo-whatsapp.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9e5be380b3822379.png",
+      "url": "https://www.datocms-assets.com/166003/1758633590-logo-whatsapp.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "cc5a04d8d4d705b3",
+      "kind": "image",
+      "name": "1758633756-logo-hp.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/cc5a04d8d4d705b3.png",
+      "url": "https://www.datocms-assets.com/166003/1758633756-logo-hp.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "99757fa5ded9c691",
+      "kind": "image",
+      "name": "1758633680-logo-nielseniq.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/99757fa5ded9c691.png",
+      "url": "https://www.datocms-assets.com/166003/1758633680-logo-nielseniq.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "a007605448a15178",
+      "kind": "image",
+      "name": "1758633805-logo-answerlab.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/a007605448a15178.png",
+      "url": "https://www.datocms-assets.com/166003/1758633805-logo-answerlab.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "ed94242d32b70d80",
+      "kind": "image",
+      "name": "1763478625-starbucks-edited.png",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/ed94242d32b70d80.png",
+      "url": "https://www.datocms-assets.com/166003/1763478625-starbucks-edited.png?h=100&w=100"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4a1abbeaad6819c1",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4a1abbeaad6819c1.svg",
+      "url": "inline-svg:4a1abbeaad6819c1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e7f9e31b929953fa",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/e7f9e31b929953fa.svg",
+      "url": "inline-svg:e7f9e31b929953fa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "249638e423f8e511",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/249638e423f8e511.svg",
+      "url": "inline-svg:249638e423f8e511"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "986dc367c13a7b70",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/986dc367c13a7b70.svg",
+      "url": "inline-svg:986dc367c13a7b70"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "49e8d8ddbf9f8298",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/49e8d8ddbf9f8298.svg",
+      "url": "inline-svg:49e8d8ddbf9f8298"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9fc39507e63487d5",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9fc39507e63487d5.svg",
+      "url": "inline-svg:9fc39507e63487d5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5423171a891ae76c",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/5423171a891ae76c.svg",
+      "url": "inline-svg:5423171a891ae76c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9048b3e351e9f429",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9048b3e351e9f429.svg",
+      "url": "inline-svg:9048b3e351e9f429"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85a214020128928e",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/85a214020128928e.svg",
+      "url": "inline-svg:85a214020128928e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bfffa1ed506c7c11",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/bfffa1ed506c7c11.svg",
+      "url": "inline-svg:bfffa1ed506c7c11"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bc93681125b7fd89",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/bc93681125b7fd89.svg",
+      "url": "inline-svg:bc93681125b7fd89"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a15ccb1be635b24c",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/a15ccb1be635b24c.svg",
+      "url": "inline-svg:a15ccb1be635b24c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ae41a997cbe3dc2d",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/ae41a997cbe3dc2d.svg",
+      "url": "inline-svg:ae41a997cbe3dc2d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "711a1ae2265e08a4",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/711a1ae2265e08a4.svg",
+      "url": "inline-svg:711a1ae2265e08a4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a1b61f4099b91c1e",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/a1b61f4099b91c1e.svg",
+      "url": "inline-svg:a1b61f4099b91c1e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "38b3adba288111a1",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/38b3adba288111a1.svg",
+      "url": "inline-svg:38b3adba288111a1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e92136da4f0fe555",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/e92136da4f0fe555.svg",
+      "url": "inline-svg:e92136da4f0fe555"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3c949ccc5ea9502b",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/3c949ccc5ea9502b.svg",
+      "url": "inline-svg:3c949ccc5ea9502b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "474f4ac6fa85b7f7",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/474f4ac6fa85b7f7.svg",
+      "url": "inline-svg:474f4ac6fa85b7f7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1a3ba4a0a46add4b",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/1a3ba4a0a46add4b.svg",
+      "url": "inline-svg:1a3ba4a0a46add4b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "041bb329307c290d",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/041bb329307c290d.svg",
+      "url": "inline-svg:041bb329307c290d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e54d596b1b25d421",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/e54d596b1b25d421.svg",
+      "url": "inline-svg:e54d596b1b25d421"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8d67a850ff61d871",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8d67a850ff61d871.svg",
+      "url": "inline-svg:8d67a850ff61d871"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cde356cafeaf47ce",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/cde356cafeaf47ce.svg",
+      "url": "inline-svg:cde356cafeaf47ce"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8f6daf79347c87ab",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/8f6daf79347c87ab.svg",
+      "url": "inline-svg:8f6daf79347c87ab"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9492e8b890272d90",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9492e8b890272d90.svg",
+      "url": "inline-svg:9492e8b890272d90"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f111b5fbf502d0fd",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/f111b5fbf502d0fd.svg",
+      "url": "inline-svg:f111b5fbf502d0fd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6e9e9161b7dab488",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/6e9e9161b7dab488.svg",
+      "url": "inline-svg:6e9e9161b7dab488"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "53ce164b9f8b154c",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/53ce164b9f8b154c.svg",
+      "url": "inline-svg:53ce164b9f8b154c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1d978177e6538e95",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/1d978177e6538e95.svg",
+      "url": "inline-svg:1d978177e6538e95"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85d1193d3040a0c7",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/85d1193d3040a0c7.svg",
+      "url": "inline-svg:85d1193d3040a0c7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6f6886095386bf53",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/6f6886095386bf53.svg",
+      "url": "inline-svg:6f6886095386bf53"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "62d4a3e7ff4d3327",
+      "kind": "image",
+      "name": "desktop-svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/62d4a3e7ff4d3327.svg",
+      "url": "inline-svg:62d4a3e7ff4d3327"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "21ab0632ff7d05a3",
+      "kind": "image",
+      "name": "mobile-svg",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/21ab0632ff7d05a3.svg",
+      "url": "inline-svg:21ab0632ff7d05a3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cc2c8f2efd21fc2b",
+      "kind": "image",
+      "name": "svg-35",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/cc2c8f2efd21fc2b.svg",
+      "url": "inline-svg:cc2c8f2efd21fc2b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4581cbfb49442d09",
+      "kind": "image",
+      "name": "svg-36",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4581cbfb49442d09.svg",
+      "url": "inline-svg:4581cbfb49442d09"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "972beafde426e408",
+      "kind": "image",
+      "name": "svg-37",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/972beafde426e408.svg",
+      "url": "inline-svg:972beafde426e408"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4595ba90668dce9f",
+      "kind": "image",
+      "name": "svg-38",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/4595ba90668dce9f.svg",
+      "url": "inline-svg:4595ba90668dce9f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2042eccb5bd72259",
+      "kind": "image",
+      "name": "svg-39",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/2042eccb5bd72259.svg",
+      "url": "inline-svg:2042eccb5bd72259"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "45a2831d5f5de3cb",
+      "kind": "image",
+      "name": "svg-40",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/45a2831d5f5de3cb.svg",
+      "url": "inline-svg:45a2831d5f5de3cb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "79c972e6ab917765",
+      "kind": "image",
+      "name": "svg-41",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/79c972e6ab917765.svg",
+      "url": "inline-svg:79c972e6ab917765"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9aadef0196023c07",
+      "kind": "image",
+      "name": "svg-42",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/9aadef0196023c07.svg",
+      "url": "inline-svg:9aadef0196023c07"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "51aa3e2a5586707e",
+      "kind": "image",
+      "name": "svg-43",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/51aa3e2a5586707e.svg",
+      "url": "inline-svg:51aa3e2a5586707e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "55579e3234a54628",
+      "kind": "image",
+      "name": "svg-44",
+      "path": "C:\\Users\\harsh\\AppData\\Local\\Temp/browser-use/assets/2d571313-2334-4662-aefd-7c6e2cd2983f/55579e3234a54628.svg",
+      "url": "inline-svg:55579e3234a54628"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "45b0e489f5a440f1",
+      "name": "1761505611-favicon.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at wX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://www.datocms-assets.com/166003/1761505611-favicon.svg?auto=format&h=32&w=32"
+    },
+    {
+      "contentType": null,
+      "id": "12d9fbb400d84ca7",
+      "name": "1761505611-favicon.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at wX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://www.datocms-assets.com/166003/1761505611-favicon.svg?auto=format&h=16&w=16"
+    },
+    {
+      "contentType": null,
+      "id": "2306460b9c66863a",
+      "name": "1761505611-favicon.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at wX (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://www.datocms-assets.com/166003/1761505611-favicon.svg?auto=format&h=96&w=96"
+    }
+  ]
+}
