@@ -10,7 +10,7 @@ export const invitation = {
   heroLineTwo: "behind it all",
   heroKicker: "One team. Every memory.",
   intro:
-    "Some teams finish a tenure. The unforgettable ones leave a current running through everyone who was there. This is an invitation to the former IEEE core team—to meet again, laugh again, and celebrate what we built together.",
+    "Some teams finish a tenure. The unforgettable ones leave a current running through everyone who was there. This is an invitation to the former IEEE core team - to meet again, laugh again, and celebrate what we built together.",
   date: "DATE TO BE ANNOUNCED",
   venue: "VENUE TO BE ANNOUNCED",
   rsvpHref: "#personal-invitation",
@@ -19,7 +19,7 @@ export const invitation = {
   stories: [
     {
       title: "Where it began.",
-      copy: "A room, a whiteboard, a dozen impossible ideas—and the people who decided to make them real. Every chapter started because this core team showed up first.",
+      copy: "A room, a whiteboard, a dozen impossible ideas - and the people who decided to make them real. Every chapter started because this core team showed up first.",
       label: "The beginning",
       color: "red",
       art: "climber",
@@ -40,7 +40,7 @@ export const invitation = {
     },
     {
       title: "Still connected, for real.",
-      copy: "Different cities. New roles. Bigger dreams. But one shared chapter still ties us together—and it deserves one more evening in the same room.",
+      copy: "Different cities. New roles. Bigger dreams. But one shared chapter still ties us together - and it deserves one more evening in the same room.",
       label: "The reunion",
       color: "pink",
       art: "soccer",

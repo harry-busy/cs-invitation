@@ -1,4 +1,6 @@
 import { Rive, Layout, Fit, Alignment } from "@rive-app/canvas-lite";
+import Lenis from "lenis";
+import "lenis/dist/lenis.css";
 import { invitation as c } from "./content.js";
 import "./style.css";
 
@@ -262,7 +264,7 @@ document.querySelector("#app").innerHTML = `
     <div class="footer__bottom">
       <span>${c.eventName}</span>
       <span>Made for the people who built the chapter.</span>
-      <a class="footer__credit" href="${c.credit.href}" target="_blank" rel="noopener noreferrer" aria-label="${c.credit.label} — open Harshal Jain on LinkedIn">${c.credit.label} <span aria-hidden="true">↗</span></a>
+      <a class="footer__credit" href="${c.credit.href}" target="_blank" rel="noopener noreferrer" aria-label="${c.credit.label} - open Harshal Jain on LinkedIn">${c.credit.label} <span aria-hidden="true">↗</span></a>
     </div>
   </footer>
 `;
@@ -312,12 +314,25 @@ const parallaxItems = [...document.querySelectorAll("[data-parallax]")];
 let targetY = window.scrollY;
 let currentY = targetY;
 
-window.addEventListener("scroll", () => { targetY = window.scrollY; }, { passive: true });
+const lenis = reducedMotion ? null : new Lenis({
+  duration: 1.25,
+  easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+  smoothWheel: true,
+  wheelMultiplier: 0.88,
+  anchors: { offset: -96, duration: 1.15 },
+});
+
+if (lenis) {
+  lenis.on("scroll", ({ scroll }) => { targetY = scroll; });
+} else {
+  window.addEventListener("scroll", () => { targetY = window.scrollY; }, { passive: true });
+}
 
 function clamp(n, min = 0, max = 1) { return Math.min(max, Math.max(min, n)); }
 
-function renderScroll() {
-  currentY += (targetY - currentY) * (reducedMotion ? 1 : 0.12);
+function renderScroll(time) {
+  lenis?.raf(time);
+  currentY = lenis ? targetY : currentY + (targetY - currentY) * (reducedMotion ? 1 : 0.18);
   header.classList.toggle("is-scrolled", currentY > 80);
 
   if (!reducedMotion) {
@@ -347,11 +362,13 @@ function closeMenu() {
   document.body.classList.remove("menu-open");
   toggle.setAttribute("aria-expanded", "false");
   panel.setAttribute("aria-hidden", "true");
+  lenis?.start();
 }
 toggle.addEventListener("click", () => {
   const open = document.body.classList.toggle("menu-open");
   toggle.setAttribute("aria-expanded", String(open));
   panel.setAttribute("aria-hidden", String(!open));
+  if (open) lenis?.stop(); else lenis?.start();
 });
 panel.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeMenu));
 
@@ -378,7 +395,10 @@ function openPersonalInvite(name, { scroll = true } = {}) {
   personalizedUrl.hash = "personal-invitation";
   history.replaceState(null, "", `${personalizedUrl.pathname}${personalizedUrl.search}${personalizedUrl.hash}`);
 
-  if (scroll) foldCard.scrollIntoView({ behavior: reducedMotion ? "auto" : "smooth", block: "start" });
+  if (scroll) {
+    if (lenis) lenis.scrollTo(foldCard, { offset: -105, duration: 1.15 });
+    else foldCard.scrollIntoView({ behavior: "auto", block: "start" });
+  }
   cardOpenTimer = setTimeout(() => foldCard.classList.add("is-open"), reducedMotion ? 0 : 260);
 }
 

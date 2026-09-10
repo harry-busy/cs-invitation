@@ -1,4 +1,4 @@
-# MindMarket Homepage — Structure Teardown
+# MindMarket Homepage - Structure Teardown
 
 Captured from the live site on 2026-09-10 at desktop (1440×900) and mobile (390×844) widths.
 

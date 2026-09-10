@@ -1,4 +1,4 @@
-# IEEE Core Invitation — Design Blueprint
+# IEEE Core Invitation - Design Blueprint
 
 ## Locked direction
 

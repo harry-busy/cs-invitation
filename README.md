@@ -6,6 +6,7 @@ An immersive, responsive reunion invitation for the former IEEE Computer Society
 
 - Responsive experience for mobile, tablet, and desktop
 - Scroll-driven story timeline with layered SVG scenery
+- Lenis-powered smooth scrolling synchronized with the visual motion loop
 - Nine animated Rive scenes
 - Personalized invitations for all five former core members
 - CSS 3D gatefold-card reveal with accessible reduced-motion behavior
@@ -27,6 +28,7 @@ An immersive, responsive reunion invitation for the former IEEE Computer Society
 - [Vite](https://vite.dev/)
 - Vanilla JavaScript and CSS
 - [Rive Canvas Lite](https://rive.app/docs/runtimes/web/)
+- [Lenis](https://lenis.dev/)
 - Self-hosted Inter fonts
 
 ## Getting started

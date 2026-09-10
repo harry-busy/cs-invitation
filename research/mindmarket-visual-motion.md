@@ -1,4 +1,4 @@
-# MindMarket Homepage — Visual and Motion Teardown
+# MindMarket Homepage - Visual and Motion Teardown
 
 ## Technology classification
 
